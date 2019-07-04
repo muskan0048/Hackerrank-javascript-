@@ -33,7 +33,7 @@ function plusMinus(arr) {
             ++g;
         else if (arr[i] == 0)
             ++z;
-            
+           
     }
     
     process.stdout.write(""+ p/n+ "\n" +g/n+ "\n"+ z/n );
