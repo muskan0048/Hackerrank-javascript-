@@ -44,7 +44,6 @@ function timeConversion(s) {
             arr[0] = Number(arr[0]) + 12;
         }
        
-        
     }
 
     return arr.join(':');
